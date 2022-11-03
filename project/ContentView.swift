@@ -53,6 +53,7 @@ struct ContentView: View {
                             Text("Price : 150 SR")
                             Text("Age : 6 - 9")
                             Text("Paid : Credit Card")
+                            Text("THreee")
                             
                         }
                     }
